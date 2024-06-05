@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4631980df4e35c74ab4965c6132f6fc9, type: 3}
+  m_Name: Renshen
+  m_EditorClassIdentifier: 
+  upgradeType: 2
+  Name: "\u83B7\u5F97\u751F\u59DC\u6B66\u5668"
+  icon: {fileID: 21300000, guid: db98b5a615609d64fbede1be3f5a548c, type: 3}
+  text: "\u751F\u59DC\u5473\u8F9B\uFF0C\u6027\u6E29\uFF1B\u5F52\u80BA\u3001\u813E\u3001\u80C3\u7ECF\uFF0C\u89E3\u8868\u6563\u5BD2\uFF0C\u6E29\u4E2D\u6B62\u5455\uFF0C\u6E29\u80BA\u6B62\u54B3\uFF0C\u89E3\u6BD2\u3002\u9633+1(\u83B7\u5F97\u9AD8\u6E29\u9886\u57DF\uFF0C\u5BF9\u5468\u56F4\u9020\u6210\u6301\u7EED\u4F24\u5BB3)"
+  itemBase: {fileID: 11400000, guid: fae0bce372aea9343a412ab3d9fd4649, type: 2}
+  weaponData: {fileID: 11400000, guid: b4af336b3a1a6434997f7117665b0b7c, type: 2}
+  weaponUpgradeStates:
+    damage: 0
+    timeToAttack: 0
+    Range: 0
+    CunZaiTime: 0
+    Area: {x: 0, y: 0}
+    Count: 0
+    IsDivision: 0

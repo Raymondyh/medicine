@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4631980df4e35c74ab4965c6132f6fc9, type: 3}
+  m_Name: Yang_RS
+  m_EditorClassIdentifier: 
+  upgradeType: 1
+  Name: "\u4EBA\u53C2"
+  icon: {fileID: 21300000, guid: 6297a75a69e17794c884797ae5efe16b, type: 3}
+  text: "\u4EBA\u53C2\u5473\u7518\u3001\u5FAE\u82E6,\u6027\u5FAE\u6E29,\u5F52\u813E\u3001\u80BA\u3001\u5FC3\u3001\u80BE\u7ECF,\u6C14\u96C4\u4F53\u6DA6,\u5347\u591A\u4E8E\u964D\uFF1A\u9633+2
+    (\u62A4\u7532+2)"
+  itemBase: {fileID: 11400000, guid: 82ce76c4dfb3a7f4498627027208c946, type: 2}
+  weaponData: {fileID: 0}
+  weaponUpgradeStates:
+    damage: 0
+    timeToAttack: 0
+    Range: 0
+    CunZaiTime: 0
+    Area: {x: 0, y: 0}
+    Count: 0
+    IsDivision: 0

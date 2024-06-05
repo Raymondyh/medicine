@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4631980df4e35c74ab4965c6132f6fc9, type: 3}
+  m_Name: TimeAttack
+  m_EditorClassIdentifier: 
+  upgradeType: 0
+  Name: "\u7075\u829D\u653B\u51FB\u65F6\u95F4"
+  icon: {fileID: 21300000, guid: 9bc9d7337496bc4478e98f7de4b3659d, type: 3}
+  text: "\u7075\u829D\uFF1A\u5473\u7518\uFF0C\u6027\u5E73\uFF0C\u5F52\u5FC3\u3001\u80BA\u3001\u80BE\u7ECF\uFF1B\u5177\u8865\u6C14\u5B89\u795E\uFF0C\u6B62\u54B3\u5E73\u5598\u7684\u529F\u6548\u3002\u9633+1(\u4EA7\u751F\u7C98\u6DB2\u65F6\u95F4\u51CF\u5C11)"
+  itemBase: {fileID: 11400000, guid: fae0bce372aea9343a412ab3d9fd4649, type: 2}
+  weaponData: {fileID: 11400000, guid: cade7ec3de84e944bac7effc2c1cedfb, type: 2}
+  weaponUpgradeStates:
+    damage: 1
+    timeToAttack: -1
+    Range: 1
+    CunZaiTime: 0
+    Area: {x: 0, y: 0}
+    Count: 0
+    IsDivision: 0

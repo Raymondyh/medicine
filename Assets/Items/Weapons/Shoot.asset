@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcf4b21e4783bcb4aaac65efe75c28da, type: 3}
+  m_Name: Shoot
+  m_EditorClassIdentifier: 
+  Name: Shoot
+  stats:
+    damage: 20
+    timeToAttack: 1
+    Range: 1
+    CunZaiTime: 0
+    Area: {x: 0, y: 0}
+    Count: 0
+    IsDivision: 0
+  weaponBasePrefab: {fileID: 1705483487050626211, guid: e615519fe7f9b914a874d429a47ca415,
+    type: 3}
+  upgrades:
+  - {fileID: 11400000, guid: 0add3a2bd0f9e1e46b25afe7688e7d02, type: 2}
+  - {fileID: 11400000, guid: 536558e0136eab34bac7fa5b4728e5c6, type: 2}
+  - {fileID: 11400000, guid: ac417cb2dc1f4a84f99aa7a571fd1a02, type: 2}
+  - {fileID: 11400000, guid: ac417cb2dc1f4a84f99aa7a571fd1a02, type: 2}
+  - {fileID: 11400000, guid: ac417cb2dc1f4a84f99aa7a571fd1a02, type: 2}
+  - {fileID: 11400000, guid: 536558e0136eab34bac7fa5b4728e5c6, type: 2}
+  - {fileID: 11400000, guid: ac417cb2dc1f4a84f99aa7a571fd1a02, type: 2}
